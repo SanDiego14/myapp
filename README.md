@@ -71,7 +71,7 @@ Then, generate the icons from your `logo.png` file. These icons will be stored i
 
 ```bash
 # Run this in your terminal, which you can open in Visual Studio Code with Ctrl+`.
-npx pwa-asset-generator logo.png icons
+npx pwa-asset-generator logo.png icons`
 ```
 
 Copy the json output at the bottom of your terminal into your `manifest.json`.
